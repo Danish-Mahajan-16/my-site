@@ -1,0 +1,160 @@
+body{
+    margin:0px;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+    font-size:15px;
+    color:rgb(45, 41, 41);
+    
+}
+
+.bottom-container{
+    background-color:#66BFBF;
+    padding: 40px 0 30px;
+    font-family: Arial;
+    color: #11999E;
+
+}
+
+p{
+    line-height:2;
+}
+
+h1{
+    margin: 55px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size:562.5%; /* 100% = 16px in font size | 1em/1rem = 16px in font size*/
+    color:#04dede;
+}
+
+h2{ 
+    font-family: 'Montserrat', sans-serif;
+    font-size:2.5rem;
+    color:#04dede;
+    font-weight:normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:#11999E;
+}
+
+a{
+    text-decoration:none;
+    color:#11999E;
+}
+
+.middle-container{
+    margin: 50px 0 50px ;
+    
+}
+
+.top-container{
+    background-color: #B4E4FF;
+    position:relative;
+    padding-top:90px;
+    
+}
+
+.mountain-container{
+    width:50%;
+    margin:auto;
+}
+
+.mountain{
+    width:90%;
+}
+
+.top-cloud{
+    position:absolute;
+    /* right:350px; */
+    right:20%;
+    top:12%;
+    /* top:10%; */
+}
+.bottom-cloud{
+    position:absolute;
+    /* left:400px; */
+    left:15%;
+}
+
+.footer-image{
+    width:35px;
+}
+
+.skill-row{
+    width:50%;
+    margin:100px auto 100px;
+    text-align:left;
+    
+}
+
+.web-dev-img{
+    float:left;
+    padding-right:30px;
+    /* margin-right:30px;*/
+    margin-bottom:30px;
+}
+
+.coding-img{
+    float:right;
+    /* padding-right:30px; */
+    margin-left:30px;
+    margin-bottom:30px;
+}
+
+.profile{
+    margin: 10px 0 80px;
+}
+
+hr{
+    border-style:dotted none none;
+    width:5%;
+    border-top-width: 5px;
+    border-color:lightgray;
+}
+
+.skills{
+    margin: 80px 0;
+}
+
+.copyright{
+    margin: 30px auto 0;
+    color:whitesmoke;
+}
+
+.btn{
+    background: #11CDD4;
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size:16px;
+}
+  
+.btn:hover {
+    background: #30e3cb;
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+}
+.butn{
+    margin: 30px auto auto;
+}
+
+.contact-me{
+    margin:80px 0;
+}
+
+.footer-link{
+    padding: 10px 20px;
+}
+
+.introduction{
+    padding-top: 20px;
+}
+
+.ping{
+    width:75%;
+    margin: auto;
+    margin-top:30px;
+}
